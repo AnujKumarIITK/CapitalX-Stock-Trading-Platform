@@ -22,6 +22,21 @@ const Menu = () => {
 
       <img src="logo.png" style={{ width: "50px" }} />
 
+      <a
+      href="https://stock-trading-platform-zerodha-website.onrender.com/"
+      style={{
+        textDecoration: "none",
+        padding: "5px 10px",
+        border: "0.5px solid black",
+        borderRadius: "50px",
+        color: "black",
+        fontSize: "18px",
+        fontWeight: "400",
+      }}
+      >
+      Zerodha HomePage
+      </a>
+
       <div className="menus">
 
         <ul>
