@@ -1,4 +1,4 @@
-# 📈 Zerodha Clone - Full Stack Stock Trading Platform
+# 📈 Full Stack Stock Trading Platform - Zerodha Clone
 
 A modern **full-stack stock trading platform** inspired by Zerodha, built using the **MERN Stack**.  
 This project replicates a real-world stock trading application with a responsive frontend, interactive dashboard, portfolio management system, stock watchlist, and trading interface.
