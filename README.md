@@ -1,4 +1,4 @@
-# 📈 Full Stack Stock Trading Platform - Zerodha Clone
+# 📈 Zerodha Clone - Full Stack Stock Trading Platform
 
 A modern **full-stack stock trading platform** inspired by Zerodha, built using the **MERN Stack**.  
 This project replicates a real-world stock trading application with a responsive frontend, interactive dashboard, portfolio management system, stock watchlist, and trading interface.
@@ -7,7 +7,22 @@ The platform demonstrates modern UI/UX design, scalable React architecture, REST
 
 ---
 
-# 🚀 Project Overview
+# 🚀 Overview
+
+CapitalX is a real-time stock trading platform designed for smooth and secure online investing.  
+The project focuses on delivering a modern trading experience with responsive dashboards, portfolio management, live stock updates, and intuitive analytics while maintaining a clean UI inspired by professional trading applications.
+
+This project demonstrates:
+
+- Full-stack MERN development  
+- Real-time stock market updates  
+- Portfolio & holdings management  
+- Buy stock functionality  
+- Interactive dashboard UI  
+- Watchlist management  
+- Market analytics visualization  
+- REST API integration  
+- Modern fintech-inspired interface  
 
 ## 🌐 Frontend Website
 - Home Page
